@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nuraidyn)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Nuraidyn</h1>
 <h3 align="center">A passionate developer from Kazakhstan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuraidyn&label=Profile%20views&color=0e75b6&style=flat" alt="nuraidyn" /> </p>
