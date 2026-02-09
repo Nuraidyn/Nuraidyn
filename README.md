@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nuraidynseitkapar@gmail.com**
 
-- ⚡ Fun fact **I thoroughly enjoy listening to people and contemplating their underlying values. My empathy allows me to discern the genuine emotions of others. To achieve this, I delve into the works of renowned psychologists and philologists, including Friedrich Nietzsche, Sigmund Freud, and Carl Jung, etc.**
+- ⚡ Fun fact **I thoroughly enjoy listening to people and contemplating their underlying values. My empathy allows me to discern the genuine emotions of others. To achieve this, I delve into the works of renowned psychologists and philologists, including Friedrich Nietzsche, Carl Jung, etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
