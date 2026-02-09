@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuraidyn" alt="nuraidyn" /></a> </p>
 
-- 🌱 I’m currently learning **SwiftUI, UIKit, Algorithms and Data Structures, PostgreSQL, Object-Oriented Programming, Java, Python**
+- 🌱 I’m currently learning **Algorithms and Data Structures, PostgreSQL, Object-Oriented Programming, Java, Python, DJango**
 
-- 💬 Ask me about **Project management, Soft-skills, IOS Development, Backend Development**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **nuraidynseitkapar@gmail.com**
 
