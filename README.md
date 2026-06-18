@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuraidyn" alt="nuraidyn" /></a> </p>
 
-- 🌱 I’m currently learning **Algorithms and Data Structures, PostgreSQL, Object-Oriented Programming, Java, Python, DJango, FastAPI**
+- 🌱 **Python Developer**
 
 - 💬 Ask me about **Backend Development**
 
