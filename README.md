@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nuraidyn</h1>
 <h3 align="center">A passionate developer from Kazakhstan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuraidyn&label=Profile%20views&color=0e75b6&style=flat" alt="nuraidyn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuraidyn" alt="nuraidyn" /></a> </p>
-
-- 🌱 **Python Developer**
-
 - 💬 Ask me about **Backend Development**
 
-- 📫 How to reach me **nuraidynseitkapar@gmail.com**
+- 📫 How to reach me **Telegram - @Nura_sun**
 
-- ⚡ Fun fact **I thoroughly enjoy listening to people and contemplating their underlying values. My empathy allows me to discern the genuine emotions of others. To achieve this, I delve into the works of renowned psychologists and philologists, including Friedrich Nietzsche, Carl Jung, etc.**
+- ⚡ Fun fact **I thoroughly enjoy listening to people and contemplating their underlying values.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
